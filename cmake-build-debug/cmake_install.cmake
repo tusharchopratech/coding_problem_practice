@@ -1,4 +1,4 @@
-# Install script for directory: /Users/tushar/Desktop/projects_n_coding/workspaces/problems
+# Install script for directory: /Users/tushar/Desktop/projects_n_coding/workspaces/coding_problem_practice
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/tushar/Desktop/projects_n_coding/workspaces/problems/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/tushar/Desktop/projects_n_coding/workspaces/coding_problem_practice/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
